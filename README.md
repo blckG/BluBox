@@ -1,5 +1,5 @@
 # BluBox
-![Logo](http://i.imgur.com/A1VaXdk.png)
+![Logo](https://i.imgur.com/YUKdsWv.png)
 BluBox is web application for storing informations about movies, tv shows and torrents from transmission server. Built on the Laravel Framework and using AngularJS for frontend! BluBox is offering a API for managing transmissions torrents and files on a server or NAS.
 
 ## Requirements
